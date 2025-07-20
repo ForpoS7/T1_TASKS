@@ -1,0 +1,8 @@
+### Custom Metric: Queue Size (Last Added Android And All Them Tags)
+GET http://localhost:8080/actuator/metrics/android.task.queue.size
+
+### Custom Metric: Queue Size (Конор)
+GET http://localhost:8080/actuator/metrics/android.task.queue.size?tag=android:Конор
+
+### Custom Metric: Executed Tasks
+GET http://localhost:8080/actuator/metrics/android.executed.tasks
