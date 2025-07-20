@@ -1,0 +1,3 @@
+t1.homeworks.synthetichumancore.config.AuditAutoConfiguration
+t1.homeworks.synthetichumancore.config.KafkaAutoConfig
+t1.homeworks.synthetichumancore.config.MetricAutoConfig
